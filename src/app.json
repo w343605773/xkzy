@@ -1,0 +1,21 @@
+{
+  "pages": [
+    "pages/code/main",
+    "pages/index/main",
+    "pages/canera/main",
+    "pages/helpOther/main",
+    "pages/otherCanera/main",
+    "pages/searchReport/main",
+    "pages/ReportInfo/main",
+    "pages/ReportDetails/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小康战役",
+    "navigationBarTextStyle": "black"
+  },
+  "networkTimeout": {
+    "request": 10000
+    }
+}
